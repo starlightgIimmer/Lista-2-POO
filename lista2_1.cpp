@@ -1,3 +1,10 @@
+Questão 1: Crie uma classe de Veículos para uma concessionaria, a classe deve
+armazenar as seguintes informações: peso do veiculo, ano, cor e marca (não esqueça de
+usar os métodos setters e getters).
+A classe deverá incluir métodos para: (1) adicionar novos veículos; (2) imprimir na tela
+os veículos cadastrados e; (3) imprimir um arquivo .TXT com os veículos cadastrados
+(Utilize a biblioteca fstream para imprimir em arquivos .txt).
+
 #include <iostream>
 #include <string>
 #include <fstream>
